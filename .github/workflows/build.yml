@@ -10,7 +10,7 @@ on:
 env:
   FIRMWARE_URL: "https://x86.cooluc.com/d/releases/openwrt-24.10/v24.10.0-rc2/openwrt-24.10.0-rc2-x86-64-generic-rootfs.tar.gz"
   REPOSITORY: sbwml/builder
-  TAG: 124.10.0
+  TAG: 24.10.0
 
 jobs:
   build:
